@@ -2855,6 +2855,7 @@ SJMPGT = Jillian Michaels Fitness Ultimatum 2010
 SJNE41 = Just Dance 2016
 SJNP41 = Just Dance 2016
 SJOE41 = Just Dance 2014
+SJOB41 = Just Dance Japan
 SJOP41 = Just Dance 2014
 SJPE78 = Jeopardy!
 SJQEPZ = Jewel Quest Trilogy
